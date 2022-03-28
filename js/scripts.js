@@ -36,3 +36,4 @@ function Contact(first, last) {
   Contact.prototype.fullName = function() {
     return this.firstName + " " + this.lastName;
   }
+  $("ul#contacts").append("<li><span class='contact'>" + newContact.fullName() + "</span></li>");
