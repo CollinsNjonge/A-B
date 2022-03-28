@@ -2,12 +2,10 @@
 This is a web application exercise that was intended to help students practice and understand concepts on Contract Constructors and User Interface Logic to recreate a landing page for an Address Book with Constuctors.  {29/03/2022}
 #### By **Collins Njonge**
 ## Description
-This is a web application exercise that was intended to help students practice and understand concepts on bootstrap and jQuery to recreate a landing page for a fictional studio.
+This is a web application exercise that was intended to help students practice and understand concepts on Contract Constructors and User Interface Logic to recreate a landing page for an Address Book with Constuctors. 
 ## Setup/Installation Requirements
 * Create a portfolio directory/ folder then initialize git in the terminal
 * In the new directory create an index.html file.
-* Create a CSS folder in the delani directory then create a styles.css file in the same folder.
-* Create a JS folder in the delani directory then create a scripts.js file in the same folder.
 * link CSS to HTML file.
 * link Bootstrap to HTML file.
 * link JS to HTML file
